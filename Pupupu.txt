@@ -1,0 +1,1 @@
+Given a text file (.txt), output the frequency of letter repetitions and the frequency of two-letter combinations (only those that appear in the text).
